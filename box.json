@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "ba07c8ebc85418b1d7dce39bc53565ecmain": "gist:ba07c8ebc85418b1d7dce39bc53565ec#main",
+    "BCrypt": "https://github.com/coldbox-modules/bcrypt/archive/refs/heads/development.zip",
+    "coldbox": "^5.1.0",
+    "d10024aea74857d3dc15486e695f764b": "gist:d10024aea74857d3dc15486e695f764b",
+    "GetHostName": "cflib:GetHostName",
+    "jbcrypt": "jar:https://github.com/coldbox-modules/cbox-bcrypt/blob/master/models/lib/jbcrypt.jar?raw=true",
+    "mailgunEmailValidate-cfc": "folder:D:\\www\\online-cf-meetup\\__myrepos\\utils\\",
+    "send-grid-protocol": "file:D:\\www\\online-cf-meetup\\__myrepos\\send-grid-protocol-master.zip",
+    "versionHeader": "git://github.com/gpickin/versionHeader.git"
+  },
+  "installPaths": {
+    "ba07c8ebc85418b1d7dce39bc53565ecmain": "ba07c8ebc85418b1d7dce39bc53565ecmain/",
+    "BCrypt": "modules/BCrypt/",
+    "coldbox": "coldbox/",
+    "d10024aea74857d3dc15486e695f764b": "d10024aea74857d3dc15486e695f764b/",
+    "GetHostName": "GetHostName/",
+    "jbcrypt": "lib/jbcrypt/",
+    "mailgunEmailValidate-cfc": "mailgunEmailValidate-cfc/",
+    "send-grid-protocol": "modules/send-grid-protocol/",
+    "versionHeader": "modules/versionHeader/"
+  }
+}
